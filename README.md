@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
 ## Hey 👋, I'm dfdiag  
   
 
@@ -34,10 +38,6 @@ whois dfdiag? I'm junior network engineering, interested in developing websites,
 
 
 </td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 <br/>  
