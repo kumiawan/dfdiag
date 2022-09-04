@@ -58,7 +58,7 @@ whois dfdiag? I'm junior network engineering, interested in developing websites,
 
 <br/>  
 
-
+<!--
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -69,7 +69,7 @@ whois dfdiag? I'm junior network engineering, interested in developing websites,
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfdiag&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
+-->
 <br/>  
 
   
@@ -77,10 +77,9 @@ whois dfdiag? I'm junior network engineering, interested in developing websites,
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=dfdiagd&&style=flat-square)  
-  
+
 
 <br/>  
-
 
 <br />
 
