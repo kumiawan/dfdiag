@@ -3,11 +3,11 @@
 </div>  
 
 ## Hey 👋, I'm dfdiag  
-  
+  <h3> MINIMAL FOLLOW!</h3>
 
 
 
-### account  
+### My account  
 <div align="center">
 <a href="https://instagram.com/dimfajar.k" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -31,8 +31,9 @@ whois dfdiag? I'm junior network engineering, interested in developing websites,
 
 
 ## Rapidfire  
+- 🐧 fresh graduated.
 
-- 🌱 I’m currently learning JavaScript  
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Java.
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
