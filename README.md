@@ -1,5 +1,4 @@
-## BARUDAK WELLL 🤙
+## SCRIPT KIDDIES 🤙
   <h3>i use</h3>
-  html,css,javascript,mysql,php,java,bootstrap
-  
+google search engine for build my own website
  now i learn how to use linux properly :)
