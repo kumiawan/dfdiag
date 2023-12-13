@@ -1,1 +1,1 @@
-# Hello coders! Wellcome to dfdiag
+# Hello coders! Welcome to dfdiag
